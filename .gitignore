@@ -1,0 +1,17 @@
+.deepseek-worker/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.png
+*.tmp
+
+outputs/*.csv
+outputs/*.json
+outputs/*.tmp
+outputs/*.request
+outputs/Live Veegtellingen.desktop
+
+work/*.log
+work/*.png
+work/deepseek*
